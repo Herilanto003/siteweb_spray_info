@@ -1,0 +1,21 @@
+{
+  "header": {
+    "navMenu": {
+      "home": "Accueil",
+      "about": "A propos",
+      "service": "Services",
+      "team": "Equipes",
+      "partener": "Partenaires",
+      "contact": "Contact"
+    }
+  },
+  "landingPage": {
+    "title": "Spray_info",
+    "welcome": "Bienvenue",
+    "slogan": "De aona fandeani jiaby!!!",
+    "subTitle": "Votre Hub Numérique 3.0",
+    "description": "Accompagner vos idées, nourrir vos inspirations, réaliser vos projets numériques : notre engagement au quotidien.",
+    "homeButton1": "Découvrir nos services",
+    "homeButton2": "Nous contacter"
+  }
+}

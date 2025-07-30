@@ -1,0 +1,21 @@
+{
+  "header": {
+    "navMenu": {
+      "home": "Home",
+      "about": "About",
+      "service": "Services",
+      "team": "Team",
+      "partener": "Partners",
+      "contact": "Contact"
+    }
+  },
+  "landingPage": {
+    "title": "Spray_info",
+    "welcome": "Welcome",
+    "slogan": "De aona fandeani jiaby!!!",
+    "subTitle": "Your Digital Hub 3.0",
+    "description": "Supporting your ideas, fueling your inspiration, realizing your digital projects: our daily commitment.",
+    "homeButton1": "Discover our services",
+    "homeButton2": "Contact us"
+  }
+}
