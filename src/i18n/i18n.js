@@ -8,9 +8,9 @@ i18next
   .use(LanguageDetector)
   .use(initReactI18next)
   .init({
-    ressources: {
-      en: { translationEn },
-      fr: { translationFr },
+    resources: {
+      en: { translation: translationEn },
+      fr: { translation: translationFr },
     },
     fallbackLng: "en",
     interpolation: {

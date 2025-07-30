@@ -1,9 +1,12 @@
-import ThemeToggle from "./components/ui/ThemeToggle";
+import Home from "./pages/Home";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 export default function App() {
   return (
-    <div>
-      <ThemeToggle></ThemeToggle>
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </Router>
   );
 }

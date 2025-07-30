@@ -5,7 +5,7 @@
       "about": "A propos",
       "service": "Services",
       "team": "Equipes",
-      "partener": "Partenaires",
+      "partner": "Partenaires",
       "contact": "Contact"
     }
   },
@@ -17,5 +17,20 @@
     "description": "Accompagner vos idées, nourrir vos inspirations, réaliser vos projets numériques : notre engagement au quotidien.",
     "homeButton1": "Découvrir nos services",
     "homeButton2": "Nous contacter"
+  },
+  "footer": {
+    "copyright": "© 2024 Spray_info. Tous droits réservés.",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation",
+    "contactUs": "Contactez-nous",
+    "followUs": "Suivez-nous",
+    "quickLinks": {
+      "home": "Accueil",
+      "about": "A propos",
+      "service": "Services",
+      "team": "Equipes",
+      "partener": "Partenaires",
+      "contact": "Contact"
+    }
   }
 }

@@ -5,7 +5,7 @@
       "about": "About",
       "service": "Services",
       "team": "Team",
-      "partener": "Partners",
+      "partner": "Partners",
       "contact": "Contact"
     }
   },
@@ -17,5 +17,20 @@
     "description": "Supporting your ideas, fueling your inspiration, realizing your digital projects: our daily commitment.",
     "homeButton1": "Discover our services",
     "homeButton2": "Contact us"
+  },
+  "footer": {
+    "copyright": "© 2024 Spray_info. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "contactUs": "Contact Us",
+    "followUs": "Follow Us",
+    "quickLinks": {
+      "home": "Home",
+      "about": "About",
+      "service": "Services",
+      "team": "Team",
+      "partener": "Partners",
+      "contact": "Contact"
+    }
   }
 }
