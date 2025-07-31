@@ -44,7 +44,7 @@ const Header = ({ activeSection, setActiveSection }) => {
           </div>
 
           {/* Desktop Navigation */}
-          <nav className="hidden md:flex space-x-8">
+          <nav className="hidden lg:flex space-x-8">
             {menuItems.map((item) => (
               <button
                 key={item.id}
@@ -61,7 +61,7 @@ const Header = ({ activeSection, setActiveSection }) => {
           </nav>
 
           {/* Theme and Language Controls */}
-          <div className="hidden md:flex items-center space-x-4">
+          <div className="hidden lg:flex items-center space-x-4">
             <button
               onClick={toggleTheme}
               className="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
@@ -85,7 +85,7 @@ const Header = ({ activeSection, setActiveSection }) => {
           </div>
 
           {/* Mobile menu button */}
-          <div className="md:hidden flex items-center space-x-2">
+          <div className="lg:hidden flex items-center space-x-2">
             <button
               onClick={toggleTheme}
               className="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300"
@@ -114,7 +114,7 @@ const Header = ({ activeSection, setActiveSection }) => {
 
         {/* Mobile Navigation */}
         {isMenuOpen && (
-          <div className="md:hidden">
+          <div className="lg:hidden">
             <div className="px-2 pt-2 pb-3 space-y-1 bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-700">
               {menuItems.map((item) => (
                 <button
