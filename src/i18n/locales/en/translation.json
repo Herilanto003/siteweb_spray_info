@@ -32,5 +32,84 @@
       "partener": "Partners",
       "contact": "Contact"
     }
-  }
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Spray_Info is an institution combining academic excellence, technical expertise, and strategic support. It includes a private university, a training center, a consulting firm, and a digital service hub.",
+
+    "objectives": {
+      "title": "Our Objectives",
+      "description": "Explore our strategic objectives and vision for technology education.",
+      "points": [
+        {
+          "icon": "graduation",
+          "title": "Training & Integration",
+          "description": "Facilitate learning of technologies (IT, robotics, cybersecurity) and support students towards professional life."
+        },
+        {
+          "icon": "users",
+          "title": "Spray_X University",
+          "description": "Degree programs in Software Engineering and Network Administration with 'Intelligence 3.0' pedagogy."
+        },
+        {
+          "icon": "light",
+          "title": "Spray_idea",
+          "description": "Strategic consulting and support for individuals and companies in their digital transformation."
+        },
+        {
+          "icon": "settings",
+          "title": "TechnoSupport",
+          "description": "Digital services: websites, ERP, cybersecurity. Involvement of interns in real projects."
+        }
+      ]
+    },
+
+    "missions": {
+      "title": "Our Missions",
+      "description": "Discover our commitments to train tomorrow's talents and support digital transformation.",
+      "points": [
+        "Train tomorrow’s talents through the Spray_X university in Software Engineering and Systems & Network Administration.",
+        "Make technology accessible to everyone, regardless of level or gender.",
+        "Provide strategic support through Spray_idea for companies and individuals.",
+        "Address companies' digital needs via TechnoSupport with professional services and real-world projects."
+      ]
+    },
+
+    "history": {
+      "title": "Our History",
+      "description": "Discover the journey of Spray_Info from its foundation to its strategic expansion.",
+      "timeline": [
+        {
+          "date": "January 2022",
+          "event": "Founded by three engineers from ENI Tuléar in Fianarantsoa, starting with only two students in a modest house."
+        },
+        {
+          "date": "July 2022",
+          "event": "Acquired a facility capable of hosting over 100 students, with improved equipment."
+        },
+        {
+          "date": "2022 - 2023",
+          "event": "Focused on IT training for university students."
+        },
+        {
+          "date": "January 2024",
+          "event": "Diversified training offerings in communication, personal development, marketing, and leadership."
+        },
+        {
+          "date": "January 2025",
+          "event": "Launched Spray_idea, a consulting firm supporting companies and individuals."
+        },
+        {
+          "date": "March 2025",
+          "event": "Created TechnoSupport, a digital service branch offering IT services to businesses."
+        },
+        {
+          "date": "Mid-2025",
+          "event": "Launched the private university Spray_X with two majors: Software Engineering and System & Network Administration."
+        }
+      ]
+    }
+  },
+
+  "detailTextButton": "See more"
 }

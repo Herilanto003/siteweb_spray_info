@@ -32,5 +32,129 @@
       "partener": "Partenaires",
       "contact": "Contact"
     }
+  },
+  "about": {
+    "title": "À propos de nous",
+    "description": "Spray_Info est une institution alliant excellence académique, expertise technique et accompagnement stratégique. Elle regroupe une université privée, un centre de formation, un cabinet de conseil et un pôle de prestation numérique.",
+
+    "objectives": {
+      "title": "Nos Objectifs",
+      "description": "Explorez nos objectifs stratégiques et notre vision pour l'éducation technologique.",
+      "points": [
+        {
+          "icon": "graduation",
+          "title": "Formation & Insertion",
+          "description": "Faciliter l’apprentissage des technologies (informatique, robotique, cybersécurité) et accompagner les étudiants vers la vie professionnelle."
+        },
+        {
+          "icon": "users",
+          "title": "Université Spray_X",
+          "description": "Formations diplômantes en Génie Logiciel et Administration Réseaux avec pédagogie 'Intelligence 3.0'."
+        },
+        {
+          "icon": "light",
+          "title": "Spray_idea",
+          "description": "Conseil stratégique et accompagnement des individus et entreprises dans leur digitalisation."
+        },
+        {
+          "icon": "settings",
+          "title": "TechnoSupport",
+          "description": "Services numériques : sites web, ERP, cybersécurité. Implication des stagiaires dans les projets réels."
+        }
+      ]
+    },
+
+    "missions": {
+      "title": "Nos Missions",
+      "description": "Découvrez nos engagements pour former les talents de demain et accompagner la transformation digitale.",
+      "points": [
+        "Former les talents de demain à travers l’université Spray_X dans les domaines du génie logiciel et des systèmes & réseaux.",
+        "Rendre la technologie accessible à tous, indépendamment du niveau ou du genre.",
+        "Offrir un accompagnement stratégique avec Spray_idea pour les entreprises et les particuliers.",
+        "Répondre aux besoins numériques des entreprises via TechnoSupport, avec des services professionnels et des projets concrets."
+      ]
+    },
+
+    "history": {
+      "title": "Notre Histoire",
+      "description": "Découvrez le parcours de Spray_Info depuis sa fondation jusqu'à son expansion stratégique.",
+      "timeline": [
+        {
+          "date": "Janvier 2022",
+          "event": "Fondation par trois ingénieurs de l'ENI Tuléar à Fianarantsoa, avec deux étudiants et une salle modeste."
+        },
+        {
+          "date": "Juillet 2022",
+          "event": "Acquisition d’un local pouvant accueillir plus de 100 étudiants avec des équipements améliorés."
+        },
+        {
+          "date": "2022 - 2023",
+          "event": "Spécialisation dans la formation informatique pour les étudiants universitaires."
+        },
+        {
+          "date": "Janvier 2024",
+          "event": "Diversification des formations : communication, développement personnel, marketing, leadership."
+        },
+        {
+          "date": "Janvier 2025",
+          "event": "Lancement de Spray_idea, cabinet de conseil pour accompagner les entreprises et individus."
+        },
+        {
+          "date": "Mars 2025",
+          "event": "Création de TechnoSupport, service de prestation numérique et support technique pour entreprises."
+        },
+        {
+          "date": "Courant 2025",
+          "event": "Naissance de l’université privée Spray_X avec deux filières : Génie Logiciel et Administration Système & Réseaux."
+        }
+      ]
+    }
+  },
+  "detailTextButton": "Voir plus",
+  "service": {
+    "title": "Nos Services",
+    "description": "Excellence & Innovation\n En intégrant le domaine numérique, découvrez un monde d'opportunités. Nos formations spécialisées vous accompagnent vers l'excellence professionnelle.",
+    "types": [
+      {
+        "icon": "spray_learn",
+        "title": "Spray_learn",
+        "description": "Faciliter l'apprentissage des technologies pour les jeunes passionnés, notamment dans les domaines de l'informatique, de la robotique, de la cybersécurité et des systèmes intelligents. Accompagner les étudiants universitaires dans l'amélioration de leurs compétences techniques et dans leur préparation à la vie professionnelle.",
+        "tag": ["Technologie avancées", "Projets réels", "Accompagnement pro"],
+        "subTitle": "Formation et insertion professionnelle"
+      },
+      {
+        "icon": "spray_x",
+        "title": "Spray_x",
+        "description": "Proposer des formations diplômantes de haut niveau dans les filières du Génie Logiciel et de l'Administration Système et Réseaux. Mettre en place une pédagogie innovante, centrée sur l'intelligence appliquée : « L'intelligence, version 3.0 ». Préparer des profils compétitifs, créatifs et entreprenants, capables d'évoluer dans un environnement numérique dynamique.",
+        "tag": [
+          "Formations diplômantes",
+          "Pédagogie innovante",
+          "Intelligence 3.0"
+        ],
+        "subTitle": "Université privée"
+      },
+      {
+        "icon": "spray_idea",
+        "title": "Spray_idea",
+        "description": "Aider les entreprises à réussir leur transformation digitale. Offrir un accompagnement personnalisé en stratégie numérique, communication, leadership, et organisation interne. Apporter une expertise terrain pour améliorer la productivité et l'impact des structures partenaires.",
+        "tag": [
+          "Transformation digitale",
+          "Stratégie personnalisée",
+          "Expertise terrain"
+        ],
+        "subTitle": "Cabinet de conseil"
+      },
+      {
+        "icon": "solution",
+        "title": "Solution numérique",
+        "description": "Proposer des services technologiques professionnels : création de sites web, déploiement de CRM/ERP, cybersécurité, maintenance, etc. Offrir aux stagiaires et formateurs l'opportunité de travailler sur des projets concrets, en collaboration avec les entreprises.",
+        "tag": [
+          "Services tech pro",
+          "Projets concrets",
+          "Collaboration entreprise"
+        ],
+        "subTitle": "Service de prestation Numérique"
+      }
+    ]
   }
 }
