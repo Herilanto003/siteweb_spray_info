@@ -25,12 +25,32 @@
     "contactUs": "Contact Us",
     "followUs": "Follow Us",
     "quickLinks": {
+      "title": "Quick Links",
       "home": "Home",
       "about": "About",
       "service": "Services",
       "team": "Team",
-      "partener": "Partners",
+      "partner": "Partners",
       "contact": "Contact"
+    },
+    "description": {
+      "title": "Spray_info",
+      "description": "Private University, Training Center, Consulting Firm, and TechnoSupport. We democratize access to technology and train tomorrow's talents."
+    },
+    "contact": {
+      "address": {
+        "title": "Address",
+        "description": "Bus Stop 28, Imandry",
+        "country": "Fianarantsoa, Madagascar"
+      },
+      "phone": {
+        "title": "Phone",
+        "description": "+268 38 37 930 53"
+      },
+      "email": {
+        "title": "Email",
+        "description": "sprayinfo@siwbs.com"
+      }
     }
   },
   "about": {

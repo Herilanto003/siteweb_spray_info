@@ -19,18 +19,38 @@
     "homeButton2": "Nous contacter"
   },
   "footer": {
-    "copyright": "© 2024 Spray_info. Tous droits réservés.",
+    "copyright": "© 2025 Spray_info. Tous droits réservés.",
     "privacyPolicy": "Politique de confidentialité",
     "termsOfService": "Conditions d'utilisation",
-    "contactUs": "Contactez-nous",
+    "contactUs": "Nous contacter",
     "followUs": "Suivez-nous",
     "quickLinks": {
+      "title": "Liens rapides",
       "home": "Accueil",
-      "about": "A propos",
+      "about": "À propos",
       "service": "Services",
-      "team": "Equipes",
+      "team": "Équipe",
       "partener": "Partenaires",
       "contact": "Contact"
+    },
+    "description": {
+      "title": "Spray_info",
+      "description": "Université privée, centre de formation, cabinet de conseil et TechnoSupport. Nous démocratisons l'accès à la technologie et formons les talents de demain."
+    },
+    "contact": {
+      "address": {
+        "title": "Adresse",
+        "description": "Arrêt Bus 28 Imandry de ",
+        "country": "Fianarantsoa, Madagascar"
+      },
+      "phone": {
+        "title": "Téléphone",
+        "description": "+268 38 37 930 53"
+      },
+      "email": {
+        "title": "Email",
+        "description": "sprayinfo@siwbs.com"
+      }
     }
   },
   "about": {

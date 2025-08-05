@@ -45,7 +45,10 @@ export default function Layout(props) {
         setActiveSection={setActiveSection}
       />
       <main>{props.children}</main>
-      <Footer />
+      <Footer
+        activeSection={activeSection}
+        setActiveSection={setActiveSection}
+      />
     </div>
   );
 }
