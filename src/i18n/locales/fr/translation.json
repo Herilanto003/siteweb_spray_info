@@ -188,5 +188,40 @@
     "title": "Etes-vous intéressés ?",
     "description": "Rejoignez-nous dès maintenant et donnez vie à vos ambitions numériques !",
     "button": "Inscrivez-vous"
+  },
+  "partner": {
+    "title": "Nos Partenaires",
+    "description": "Découvrez les entreprises et organisations qui nous font confiance et collaborent avec nous pour créer des solutions innovantes.",
+    "list": [
+      {
+        "title": "ManTek",
+        "image": "/assets/images/mantek.PNG"
+      },
+      {
+        "title": "GTV",
+        "image": "/assets/images/gtv.PNG"
+      },
+      {
+        "title": "Manja",
+        "image": "/assets/images/manja.PNG"
+      },
+      {
+        "title": "RFA",
+        "image": "/assets/images/rfa.PNG"
+      },
+      {
+        "title": "Tsikidia",
+        "image": "/assets/images/Tsikidia.PNG"
+      },
+      {
+        "title": "WBS",
+        "image": "/assets/images/WBS.PNG"
+      }
+    ]
+  },
+  "becomePartner": {
+    "title": "Devenez partenaire !",
+    "description": "Rejoignez notre réseau d’innovation et bénéficiez d’opportunités exclusives pour développer votre entreprise. Ensemble, créons l’avenir du numérique !",
+    "button": "Devenir partenaire"
   }
 }

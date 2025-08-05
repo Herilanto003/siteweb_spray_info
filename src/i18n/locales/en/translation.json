@@ -189,5 +189,40 @@
     "title": "Are you interested?",
     "description": "Join us now and bring your digital ambitions to life!",
     "button": "Register"
+  },
+  "partner": {
+    "title": "Our Partners",
+    "description": "Discover the companies and organizations that trust us and collaborate with us to create innovative solutions.",
+    "list": [
+      {
+        "title": "ManTek",
+        "image": "/assets/images/mantek.PNG"
+      },
+      {
+        "title": "GTV",
+        "image": "/assets/images/gtv.PNG"
+      },
+      {
+        "title": "Manja",
+        "image": "/assets/images/manja.PNG"
+      },
+      {
+        "title": "RFA",
+        "image": "/assets/images/rfa.PNG"
+      },
+      {
+        "title": "Tsikidia",
+        "image": "/assets/images/Tsikidia.PNG"
+      },
+      {
+        "title": "WBS",
+        "image": "/assets/images/WBS.PNG"
+      }
+    ]
+  },
+  "becomePartner": {
+    "title": "Become a partner!",
+    "description": "Join our innovation network and benefit from exclusive opportunities to grow your business. Together, let's create the future of digital!",
+    "button": "Become a partner"
   }
 }
