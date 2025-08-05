@@ -35,6 +35,14 @@ const Hero = ({ setActiveSection }) => {
     }
   };
 
+  const scrollToContact = () => {
+    const element = document.getElementById("contact");
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth" });
+      setActiveSection("contact");
+    }
+  };
+
   return (
     <section
       id="home"
@@ -103,7 +111,10 @@ const Hero = ({ setActiveSection }) => {
                 <ArrowRight className="ml-2" size={20} />
               </button>
 
-              <button className="inline-flex items-center px-8 py-4 border-2 border-white text-white font-semibold rounded-lg hover:bg-white hover:text-blue-600 transition-all duration-200">
+              <button
+                onClick={scrollToContact}
+                className="inline-flex items-center px-8 py-4 border-2 border-white text-white font-semibold rounded-lg hover:bg-white hover:text-blue-600 transition-all duration-200"
+              >
                 {t("landingPage.homeButton2")}
               </button>
             </div>

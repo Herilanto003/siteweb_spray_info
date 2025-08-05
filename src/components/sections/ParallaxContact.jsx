@@ -1,7 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 
-export default function ParallaxContact() {
+export default function ParallaxContact({ setActiveSelection }) {
   const [offsetY, setOffsetY] = React.useState(0);
 
   const { t } = useTranslation();
@@ -18,6 +18,14 @@ export default function ParallaxContact() {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
+
+  const scrollToContact = () => {
+    const element = document.getElementById("contact");
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth" });
+      setActiveSelection("contact");
+    }
+  };
 
   return (
     <section
@@ -45,7 +53,7 @@ export default function ParallaxContact() {
         </p>
         <button
           className="px-8 py-3 rounded-lg bg-blue-700 text-white font-bold text-lg shadow-lg hover:bg-blue-900 transition-colors duration-300 animate-fade-in-up delay-200"
-          onClick={() => window.open("/register", "_blank")}
+          onClick={scrollToContact}
         >
           {t("registration.button")}
         </button>
