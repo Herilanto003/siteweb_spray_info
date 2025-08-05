@@ -111,5 +111,83 @@
     }
   },
 
-  "detailTextButton": "See more"
+  "detailTextButton": "See more",
+  "service": {
+    "title": "Our Services",
+    "description": "Excellence & Innovation <1/> By joining the digital field, discover a world of opportunities. Our specialized training programs guide you towards professional excellence.",
+    "types": [
+      {
+        "icon": "spray_learn",
+        "title": "Spray_learn",
+        "description": "Facilitate technology learning for young enthusiasts, especially in IT, robotics, cybersecurity, and intelligent systems. Support university students in improving their technical skills and preparing for professional life.",
+        "tag": [
+          "Advanced technologies",
+          "Real projects",
+          "Professional support"
+        ],
+        "subTitle": "Training and professional integration"
+      },
+      {
+        "icon": "spray_x",
+        "title": "Spray_x",
+        "description": "Offer high-level degree programs in Software Engineering and System & Network Administration. Implement innovative pedagogy focused on applied intelligence: 'Intelligence, version 3.0'. Prepare competitive, creative, and entrepreneurial profiles able to thrive in a dynamic digital environment.",
+        "tag": ["Degree programs", "Innovative pedagogy", "Intelligence 3.0"],
+        "subTitle": "Private university"
+      },
+      {
+        "icon": "spray_idea",
+        "title": "Spray_idea",
+        "description": "Help companies succeed in their digital transformation. Provide personalized support in digital strategy, communication, leadership, and internal organization. Bring field expertise to improve productivity and impact of partner organizations.",
+        "tag": [
+          "Digital transformation",
+          "Personalized strategy",
+          "Field expertise"
+        ],
+        "subTitle": "Consulting firm"
+      },
+      {
+        "icon": "solution",
+        "title": "Digital Solution",
+        "description": "Provide professional technology services: website creation, CRM/ERP deployment, cybersecurity, maintenance, etc. Offer interns and trainers the opportunity to work on real projects in collaboration with companies.",
+        "tag": [
+          "Professional tech services",
+          "Real projects",
+          "Company collaboration"
+        ],
+        "subTitle": "Digital Service Provider"
+      }
+    ]
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "Meet the passionate experts driving Spray_Info forward. Our team combines technical, educational, and strategic skills to offer you the best.",
+    "members": [
+      {
+        "name": "RAMANANJANAHARY Heriniaina Jacquino",
+        "role": "Founder & Technical Director",
+        "image": "/assets/images/heri.jpg"
+      },
+      {
+        "name": "HERINIRIKO Nomenjanahary Sylvestre",
+        "role": "FullStack Developer",
+        "image": "/assets/images/dakely.jpg"
+      },
+      {
+        "name": "LIGNISA Jean Pierre",
+        "role": "System & Network Administrator",
+        "image": "/assets/images/pierre.jpg"
+      },
+      {
+        "name": "TSARAMANGA J.",
+        "role": "Graphic Designer & Community Manager",
+        "image": "/assets/images/aras.jpg"
+      }
+    ]
+  },
+  "portfolioBtn": "View portfolio",
+  "registration": {
+    "title": "Are you interested?",
+    "description": "Join us now and bring your digital ambitions to life!",
+    "button": "Register"
+  }
 }

@@ -9,7 +9,7 @@ export default function About() {
   const { t } = useTranslation();
 
   return (
-    <section id="about" className="pt-2 bg-gray-50 dark:bg-gray-950/95">
+    <section id="about" className="pt-16 bg-gray-50 dark:bg-gray-950/95">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6 lg:py-16">
         <SectionTitle
           title={t("about.title")}

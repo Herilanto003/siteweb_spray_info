@@ -113,7 +113,7 @@
   "detailTextButton": "Voir plus",
   "service": {
     "title": "Nos Services",
-    "description": "Excellence & Innovation\n En intégrant le domaine numérique, découvrez un monde d'opportunités. Nos formations spécialisées vous accompagnent vers l'excellence professionnelle.",
+    "description": "Excellence & Innovation <1/> En intégrant le domaine numérique, découvrez un monde d'opportunités. Nos formations spécialisées vous accompagnent vers l'excellence professionnelle.",
     "types": [
       {
         "icon": "spray_learn",
@@ -156,5 +156,37 @@
         "subTitle": "Service de prestation Numérique"
       }
     ]
+  },
+  "team": {
+    "title": "Notre Équipe",
+    "description": "Rencontrez les experts passionnés qui font avancer Spray_Info. Notre équipe allie compétences techniques, pédagogiques et stratégiques pour vous offrir le meilleur.",
+    "members": [
+      {
+        "name": "RAMANANJANAHARY Heriniaina Jacquino",
+        "role": "Fondateur & Directeur Technique",
+        "image": "/assets/images/heri.jpg"
+      },
+      {
+        "name": "HERINIRIKO Nomenjanahary Sylvestre",
+        "role": "Développeur FullStack",
+        "image": "/assets/images/dakely.jpg"
+      },
+      {
+        "name": "LIGNISA Jean Pierre",
+        "role": "Administrateur Système & Réseau",
+        "image": "/assets/images/pierre.jpg"
+      },
+      {
+        "name": "TSARAMANGA J.",
+        "role": "Designer Graphique & Community Manager",
+        "image": "/assets/images/aras.jpg"
+      }
+    ]
+  },
+  "portfolioBtn": "Voir portfolio",
+  "registration": {
+    "title": "Etes-vous intéressés ?",
+    "description": "Rejoignez-nous dès maintenant et donnez vie à vos ambitions numériques !",
+    "button": "Inscrivez-vous"
   }
 }

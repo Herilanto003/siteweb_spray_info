@@ -3,7 +3,7 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 * {
-  font-family: Raleway;
+  /* font-family: Raleway; */
 }
 
 .carousel-container {
