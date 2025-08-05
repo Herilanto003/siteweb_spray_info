@@ -1,5 +1,6 @@
 import Layout from "../components/layout/home/Layout";
 import About from "../components/sections/About";
+import Contact from "../components/sections/Contact";
 import Equipe from "../components/sections/Equipe";
 import Hero from "../components/sections/Hero";
 import ParallaxContact from "../components/sections/ParallaxContact";
@@ -17,6 +18,7 @@ export default function Home() {
       <Equipe />
       <Partner />
       <ParallaxPartner />
+      <Contact />
     </Layout>
   );
 }
